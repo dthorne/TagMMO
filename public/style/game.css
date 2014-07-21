@@ -1,0 +1,7 @@
+body {
+	overflow: hidden;
+}
+
+canvas {
+background:url(../images/field.jpg)
+}
