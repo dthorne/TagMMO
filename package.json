@@ -1,0 +1,11 @@
+{
+  "name": "TagMMO",
+  "description": "Built for the 2014 VisCon prgramming comp",
+  "dependencies": {
+    "express": "^4.6.1",
+    "socket.io": "^1.0.6",
+    "underscore": "^1.6.0",
+    "util": "^0.10.3"
+  },
+  "engine": "node 0.4.1"
+}
